@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "HelloAndroid"
 include(":app")
+include(":core:ui")
