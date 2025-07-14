@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inequality">Inequality</string>
+    <string name="inequalityError">these values are empty or incorrect</string>
+    <string name="inequalityHasNoSolutions">the inequality has no solutions</string>
+    <string name="displayResult">display the result of the inequality</string>
+</resources>
